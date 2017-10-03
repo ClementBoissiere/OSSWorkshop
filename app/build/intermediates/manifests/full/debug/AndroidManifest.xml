@@ -39,7 +39,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.debla.barngo.clientActivity" />
+        <activity android:name="com.example.debla.barngo.ClientActivity" />
         <activity android:name="com.example.debla.barngo.EntrepriseActivity" />
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
