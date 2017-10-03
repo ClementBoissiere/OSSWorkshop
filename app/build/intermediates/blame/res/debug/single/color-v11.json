@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/debla/AndroidStudioProjects/BarNGo/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/debla/.android/build-cache/0f28110da89bfa6a2c691a3334f401c4f26f23c1/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/debla/AndroidStudioProjects/BarNGo/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/debla/.android/build-cache/0f28110da89bfa6a2c691a3334f401c4f26f23c1/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

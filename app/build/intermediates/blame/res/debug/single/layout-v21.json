@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/debla/AndroidStudioProjects/BarNGo/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/debla/.android/build-cache/0f28110da89bfa6a2c691a3334f401c4f26f23c1/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/debla/AndroidStudioProjects/BarNGo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/debla/.android/build-cache/0f28110da89bfa6a2c691a3334f401c4f26f23c1/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/debla/AndroidStudioProjects/BarNGo/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/debla/.android/build-cache/0f28110da89bfa6a2c691a3334f401c4f26f23c1/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/debla/AndroidStudioProjects/BarNGo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/debla/.android/build-cache/0f28110da89bfa6a2c691a3334f401c4f26f23c1/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

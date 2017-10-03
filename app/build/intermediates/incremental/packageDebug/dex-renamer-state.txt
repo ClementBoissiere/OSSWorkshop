@@ -1,0 +1,7 @@
+#Tue Oct 03 14:04:21 CEST 2017
+base.0=/home/debla/AndroidStudioProjects/BarNGo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_994aaf29a98e73a17c9841119d34ca02565f5378
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/debla/AndroidStudioProjects/BarNGo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6686068f56d19870823eadea31e2ce8b7da412f1/classes.dex
+base.1=/home/debla/AndroidStudioProjects/BarNGo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6686068f56d19870823eadea31e2ce8b7da412f1
+file.0=/home/debla/AndroidStudioProjects/BarNGo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_994aaf29a98e73a17c9841119d34ca02565f5378/classes.dex

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/debla/AndroidStudioProjects/BarNGo/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/debla/.android/build-cache/0f28110da89bfa6a2c691a3334f401c4f26f23c1/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/debla/AndroidStudioProjects/BarNGo/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/debla/.android/build-cache/0f28110da89bfa6a2c691a3334f401c4f26f23c1/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/debla/AndroidStudioProjects/BarNGo/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/debla/.android/build-cache/0f28110da89bfa6a2c691a3334f401c4f26f23c1/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/debla/AndroidStudioProjects/BarNGo/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/debla/.android/build-cache/0f28110da89bfa6a2c691a3334f401c4f26f23c1/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]
